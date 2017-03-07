@@ -8,6 +8,10 @@ Seven Chooser customized for self-use.
 ## Installation
 ```
 "dependencies": {
-    "seven-chooser": "git://github.com/s2zaman/seven-chooser.git#master"
+    "seven-chooser": "git://github.com/novaseven/seven-chooser.git#master"
     }
 ```
+
+### Courtesy
+This module is a clone of the `react-native-chooser` https://github.com/gs-akhan/react-native-chooser.
+We are using this module targeted for our own use only.

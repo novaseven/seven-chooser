@@ -8,7 +8,7 @@ Seven Chooser customized for self-use.
 ## Installation
 ```
 "dependencies": {
-    "seven-chooser": "git://github.com/novaseven/seven-chooser.git#master"
+    "seven-chooser": "git+https://git@github.com/novaseven/seven-chooser.git#master"
     }
 ```
 
